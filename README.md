@@ -1,6 +1,6 @@
 # Hi there, I'm Diego! 👋
 
-Welcome to my GitHub profile! I'm a passionate student at the University of Michigan pursuing a dual degree in Data Science and Economics. I have experience in a range of programming languages, frameworks, and databases. My focus is on using technology to extract insights from data, as well as love using technology to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate student at the University of Michigan pursuing a dual degree in Data Science and Economics. I have experience in a range of programming languages, frameworks, and databases. My focus is on using technology to extract valauble insights from data, as well as using technology to solve real-world problems.
 
 ## 🛠️ Tech Stack:
 
