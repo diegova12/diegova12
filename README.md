@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate student at the University of Mich
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoavargas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoavar05@gmail.com)
 
-
+![](https://komarev.com/ghpvc/?username=diegova12)
 
 <!--
 **diegova12/diegova12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
